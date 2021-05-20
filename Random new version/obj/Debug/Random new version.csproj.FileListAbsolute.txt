@@ -1,0 +1,11 @@
+E:\Programming\С#\Enjoy\Random new version\Random new version\bin\Debug\Random new version.exe.config
+E:\Programming\С#\Enjoy\Random new version\Random new version\bin\Debug\Random new version.exe
+E:\Programming\С#\Enjoy\Random new version\Random new version\bin\Debug\Random new version.pdb
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random new version.csprojAssemblyReference.cache
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random_new_version.Form1.resources
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random_new_version.Properties.Resources.resources
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random_new_version.TwoWindow.resources
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random new version.csproj.GenerateResource.cache
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random new version.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random new version.exe
+E:\Programming\С#\Enjoy\Random new version\Random new version\obj\Debug\Random new version.pdb
